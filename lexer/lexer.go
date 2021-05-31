@@ -1,3 +1,4 @@
+// 字句解析機
 package lexer
 
 import (
